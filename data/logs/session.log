@@ -1,0 +1,17 @@
+[2025-10-09T08:02:39.154Z] INFO: Initialized empty context in memory.json
+[2025-10-09T08:04:09.452Z] INFO: Initialized empty context in memory.json
+[2025-10-09T08:04:20.324Z] ERROR: Error in AI request: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:04:20.324Z] ERROR: Error processing ask command: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:04:20.324Z] ERROR: Error processing command: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:05.062Z] INFO: Initialized empty context in memory.json
+[2025-10-09T08:21:13.795Z] ERROR: Error in AI request: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:13.795Z] ERROR: Error processing ask command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:13.796Z] ERROR: Error processing command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:46.077Z] ERROR: Error processing ask command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:46.077Z] ERROR: Error in AI request: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:21:46.077Z] ERROR: Error processing command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
+[2025-10-09T08:22:03.179Z] INFO: Initialized empty context in memory.json
+[2025-10-09T08:22:13.218Z] ERROR: Error in AI request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+[2025-10-09T08:22:13.218Z] ERROR: Error processing ask command: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+[2025-10-09T08:22:13.218Z] ERROR: Error processing command: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+[2025-10-09T11:49:58.821Z] INFO: Initialized empty context in memory.json
