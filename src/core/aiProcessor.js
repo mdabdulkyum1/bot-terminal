@@ -24,26 +24,35 @@ export async function runAICommand(commandType, userInput) {
     const prompt = buildPrompt(commandType, userInput);
 
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-        }),
-      }
-    );
+  `https://generativelanguage.googleapis.com/v1/models/${MODEL}:generateContent?key=${API_KEY}`,
+  {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [
+        {
+          role: "user",
+          parts: [{ text: String(prompt) }],
+        },
+      ],
+    }),
+  }
+);
+
 
     const data = await response.json();
 
     if (data.error) throw new Error(data.error.message);
 
-    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || "No response.";
+    const text =
+      data?.candidates?.[0]?.content?.parts?.[0]?.text ||
+      "⚠️ No response received.";
     return text;
   } catch (error) {
     return `❌ Error: ${error.message}`;
   }
 }
+
 
 /**
  * Builds a custom prompt for the AI based on command type

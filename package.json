@@ -1,26 +1,64 @@
 {
-  "name": "ai-terminal-cli",
-  "version": "1.0.0",
-  "description": "AI-powered terminal assistant built with Node.js and Google Gemini API",
+  "name": "bot-terminal",
+  "version": "2.0.0",
+  "description": "AI-powered development assistant with full project analysis, smart editing, and desktop app support",
   "type": "module",
   "main": "src/cli/index.js",
   "bin": {
-    "ai": "./bin/ai-terminal.js"
+    "bot": "./bin/bot-terminal.js",
+    "bot-terminal": "./bin/bot-terminal.js"
   },
   "scripts": {
-    "start": "node src/cli/index.js",
-    "electron": "electron .",
-    "build": "electron-builder"
+    "start": "node src/bot-terminal/main.js",
+    "bot": "node src/bot-terminal/main.js",
+    "desktop": "electron src/desktop/main.js",
+    "build": "electron-builder",
+    "build:win": "electron-builder --win",
+    "dist": "electron-builder --publish=never"
   },
   "dependencies": {
     "chalk": "^5.3.0",
     "dotenv": "^16.6.1",
     "electron": "^38.2.2",
+    "figlet": "^1.9.3",
     "fs-extra": "^11.2.0",
+    "glob": "^11.0.3",
     "node-fetch": "^3.3.2",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.botterminal.app",
+    "productName": "Bot Terminal",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "src/**/*",
+      "bin/**/*",
+      "data/**/*",
+      "node_modules/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "assets/icon.icns"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "assets/icon.png"
+    }
   }
 }

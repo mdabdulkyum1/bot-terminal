@@ -1,0 +1,55 @@
+{
+  "id": "session_2025_10_09_22_53",
+  "startTime": 1760028829121,
+  "lastSaved": 1760029111117,
+  "blocks": [
+    {
+      "id": "block_1760028829121_h7u8j28dv",
+      "input": "hi",
+      "output": "",
+      "error": "'hi' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760028829121,
+      "endTime": 1760028829210,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 89
+    },
+    {
+      "id": "block_1760029055574_grkql1ckd",
+      "input": "ai hi",
+      "output": "",
+      "error": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "status": "error",
+      "startTime": 1760029055574,
+      "endTime": 1760029056291,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 717
+    },
+    {
+      "id": "block_1760029071918_9i6w1w1g3",
+      "input": "ai hello",
+      "output": "",
+      "error": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "status": "error",
+      "startTime": 1760029071918,
+      "endTime": 1760029072602,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 684
+    },
+    {
+      "id": "block_1760029111117_wbcbur7iv",
+      "input": "edit kyum.js file here some hello word code in js",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760029111117,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 0
+    }
+  ]
+}

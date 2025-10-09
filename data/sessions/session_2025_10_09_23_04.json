@@ -1,0 +1,79 @@
+{
+  "id": "session_2025_10_09_23_04",
+  "startTime": 1760029454735,
+  "lastSaved": 1760029871518,
+  "blocks": [
+    {
+      "id": "block_1760029454735_k31dm2l8f",
+      "input": "ai hi",
+      "output": "",
+      "error": "API key not valid. Please pass a valid API key.",
+      "status": "error",
+      "startTime": 1760029454735,
+      "endTime": 1760029455423,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 688
+    },
+    {
+      "id": "block_1760029481078_mp7kr55tb",
+      "input": "ai hi",
+      "output": "",
+      "error": "API key not valid. Please pass a valid API key.",
+      "status": "error",
+      "startTime": 1760029481078,
+      "endTime": 1760029481730,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 652
+    },
+    {
+      "id": "block_1760029483654_oj9glaums",
+      "input": "hello",
+      "output": "",
+      "error": "'hello' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760029483654,
+      "endTime": 1760029483739,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 85
+    },
+    {
+      "id": "block_1760029500574_z3xjx1viy",
+      "input": "project about this projects",
+      "output": "",
+      "error": "API key not valid. Please pass a valid API key.",
+      "status": "error",
+      "startTime": 1760029500574,
+      "endTime": 1760029501303,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 729
+    },
+    {
+      "id": "block_1760029867276_pqiyi7opq",
+      "input": "ai hi",
+      "output": "",
+      "error": "API key not valid. Please pass a valid API key.",
+      "status": "error",
+      "startTime": 1760029867276,
+      "endTime": 1760029868006,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 730
+    },
+    {
+      "id": "block_1760029871518_zrkotmblj",
+      "input": "clear",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760029871518,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": false,
+      "duration": 0
+    }
+  ]
+}
