@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
+import { logger } from "../utils/logger";
 
 dotenv.config({ path: path.join(process.cwd(), ".env") });
 

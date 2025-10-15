@@ -1,121 +1,108 @@
-[2025-10-09T08:02:39.154Z] INFO: Initialized empty context in memory.json
-[2025-10-09T08:04:09.452Z] INFO: Initialized empty context in memory.json
-[2025-10-09T08:04:20.324Z] ERROR: Error in AI request: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:04:20.324Z] ERROR: Error processing ask command: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:04:20.324Z] ERROR: Error processing command: 401 Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:05.062Z] INFO: Initialized empty context in memory.json
-[2025-10-09T08:21:13.795Z] ERROR: Error in AI request: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:13.795Z] ERROR: Error processing ask command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:13.796Z] ERROR: Error processing command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:46.077Z] ERROR: Error processing ask command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:46.077Z] ERROR: Error in AI request: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:21:46.077Z] ERROR: Error processing command: 401 Incorrect API key provided: sk-proj-*****2SX0. You can find your API key at https://platform.openai.com/account/api-keys.
-[2025-10-09T08:22:03.179Z] INFO: Initialized empty context in memory.json
-[2025-10-09T08:22:13.218Z] ERROR: Error in AI request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
-[2025-10-09T08:22:13.218Z] ERROR: Error processing ask command: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
-[2025-10-09T08:22:13.218Z] ERROR: Error processing command: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
-[2025-10-09T11:49:58.821Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:40:12.422Z] ERROR: OPENAI_API_KEY is not set in .env file
-[2025-10-09T12:42:45.674Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:42:52.031Z] INFO: Context updated
-[2025-10-09T12:44:59.227Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:46:51.961Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:46:56.516Z] INFO: Context updated
-[2025-10-09T12:48:20.939Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:48:25.851Z] INFO: Context updated
-[2025-10-09T12:49:09.247Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:50:30.543Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:50:33.553Z] INFO: Context updated
-[2025-10-09T12:51:46.124Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:54:53.271Z] INFO: Initialized empty context in memory.json
-[2025-10-09T12:54:58.167Z] INFO: Context updated
-[2025-10-09T13:05:20.864Z] INFO: Context updated
-[2025-10-09T13:11:01.727Z] INFO: Context updated
-[2025-10-09T13:11:27.496Z] INFO: Initialized empty context in memory.json
-[2025-10-09T13:11:46.922Z] INFO: Context updated
-[2025-10-09T13:13:13.706Z] ERROR: Error reading file create new file kyum.js and here write some functions: ENOENT: no such file or directory, open 'H:\ai\bot\create new file kyum.js and here write some functions'
-[2025-10-09T13:13:13.706Z] ERROR: Error processing edit command: ENOENT: no such file or directory, open 'H:\ai\bot\create new file kyum.js and here write some functions'
-[2025-10-09T13:13:13.706Z] ERROR: Error processing command: ENOENT: no such file or directory, open 'H:\ai\bot\create new file kyum.js and here write some functions'
-[2025-10-09T13:15:05.533Z] INFO: Initialized empty context in memory.json
-[2025-10-09T13:15:42.309Z] ERROR: Error reading file write some functions in kyum.js file: ENOENT: no such file or directory, open 'H:\ai\bot\write some functions in kyum.js file'
-[2025-10-09T13:15:42.316Z] ERROR: Error processing command: ENOENT: no such file or directory, open 'H:\ai\bot\write some functions in kyum.js file'
-[2025-10-09T13:15:42.312Z] ERROR: Error processing edit command: ENOENT: no such file or directory, open 'H:\ai\bot\write some functions in kyum.js file'
-[2025-10-09T13:16:28.695Z] INFO: Initialized empty context in memory.json
-[2025-10-09T13:16:48.584Z] ERROR: Error reading file here: ENOENT: no such file or directory, open 'H:\ai\bot\here'
-[2025-10-09T13:16:48.585Z] ERROR: Error processing edit command: ENOENT: no such file or directory, open 'H:\ai\bot\here'
-[2025-10-09T13:16:48.586Z] ERROR: Error processing command: ENOENT: no such file or directory, open 'H:\ai\bot\here'
-[2025-10-09T13:17:08.557Z] ERROR: Error reading file kyum.js file: ENOENT: no such file or directory, open 'H:\ai\bot\kyum.js file'
-[2025-10-09T13:17:08.557Z] ERROR: Error processing edit command: ENOENT: no such file or directory, open 'H:\ai\bot\kyum.js file'
-[2025-10-09T13:17:08.557Z] ERROR: Error processing command: ENOENT: no such file or directory, open 'H:\ai\bot\kyum.js file'
-[2025-10-09T13:20:31.283Z] INFO: Context updated
-[2025-10-09T13:21:07.099Z] INFO: Context updated
-[2025-10-09T13:21:49.948Z] INFO: Context updated
-[2025-10-09T14:23:26.221Z] INFO: Initialized empty context in memory.json
-[2025-10-09T15:44:16.597Z] INFO: Session initialized: session_2025_10_09_21_44
-[2025-10-09T15:44:38.095Z] INFO: Session initialized: session_2025_10_09_21_44
-[2025-10-09T15:45:44.397Z] INFO: Session saved: 1 blocks
-[2025-10-09T15:45:53.181Z] INFO: Session saved: 2 blocks
-[2025-10-09T15:46:11.881Z] INFO: Session saved: 3 blocks
-[2025-10-09T15:46:13.430Z] INFO: Context updated
-[2025-10-09T15:46:30.703Z] INFO: Session saved: 4 blocks
-[2025-10-09T15:46:35.515Z] INFO: Context updated
-[2025-10-09T15:47:29.934Z] INFO: Session saved: 5 blocks
-[2025-10-09T15:47:40.550Z] INFO: Session saved: 6 blocks
-[2025-10-09T15:47:42.731Z] INFO: Context updated
-[2025-10-09T15:51:59.916Z] INFO: Session saved: 7 blocks
-[2025-10-09T15:52:05.196Z] INFO: Context updated
-[2025-10-09T16:37:12.338Z] INFO: Session initialized: session_2025_10_09_22_37
-[2025-10-09T16:37:12.339Z] INFO: 🔍 Initializing project analysis...
-[2025-10-09T16:37:12.339Z] INFO: 🔍 Starting project analysis...
-[2025-10-09T16:37:13.503Z] ERROR: AI Provider Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:37:13.504Z] ERROR: Error generating project summary: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:37:13.504Z] INFO: ✅ Project analysis completed
-[2025-10-09T16:37:13.504Z] INFO: ✅ Project analysis completed
-[2025-10-09T16:51:55.961Z] INFO: Initialized empty context in memory.json
-[2025-10-09T16:53:37.624Z] INFO: Session initialized: session_2025_10_09_22_53
-[2025-10-09T16:53:37.626Z] INFO: 🔍 Initializing project analysis...
-[2025-10-09T16:53:37.626Z] INFO: 🔍 Starting project analysis...
-[2025-10-09T16:53:38.745Z] ERROR: AI Provider Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:53:38.746Z] ERROR: Error generating project summary: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:53:38.746Z] INFO: ✅ Project analysis completed
-[2025-10-09T16:53:38.746Z] INFO: ✅ Project analysis completed
-[2025-10-09T16:53:49.185Z] INFO: Session saved: 1 blocks
-[2025-10-09T16:57:35.584Z] INFO: Session saved: 2 blocks
-[2025-10-09T16:57:36.291Z] ERROR: AI Provider Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:57:36.292Z] ERROR: AI Command error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:57:51.927Z] INFO: Session saved: 3 blocks
-[2025-10-09T16:57:52.601Z] ERROR: AI Provider Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:57:52.603Z] ERROR: AI Command error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T16:58:31.123Z] ERROR: Error reading file kyum.js file here some hello word code in js: File type not allowed: .js file here some hello word code in js
-[2025-10-09T16:58:31.127Z] ERROR: Project Command error: File edit failed: File type not allowed: .js file here some hello word code in js
-[2025-10-09T16:58:31.131Z] INFO: Session saved: 4 blocks
-[2025-10-09T17:00:40.869Z] INFO: Session initialized: session_2025_10_09_23_00
-[2025-10-09T17:00:40.870Z] INFO: 🔍 Initializing project analysis...
-[2025-10-09T17:00:40.870Z] INFO: 🔍 Starting project analysis...
-[2025-10-09T17:00:41.104Z] INFO: ✅ Project analysis completed
-[2025-10-09T17:00:41.104Z] INFO: ✅ Project analysis completed
-[2025-10-09T17:04:03.963Z] INFO: Session initialized: session_2025_10_09_23_04
-[2025-10-09T17:04:03.965Z] INFO: 🔍 Initializing project analysis...
-[2025-10-09T17:04:03.966Z] INFO: 🔍 Starting project analysis...
-[2025-10-09T17:04:05.630Z] ERROR: AI Provider Error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:05.631Z] ERROR: Error generating project summary: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:05.631Z] INFO: ✅ Project analysis completed
-[2025-10-09T17:04:05.631Z] INFO: ✅ Project analysis completed
-[2025-10-09T17:04:14.762Z] INFO: Session saved: 1 blocks
-[2025-10-09T17:04:15.422Z] ERROR: AI Provider Error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:15.424Z] ERROR: AI Command error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:41.085Z] INFO: Session saved: 2 blocks
-[2025-10-09T17:04:41.729Z] ERROR: AI Provider Error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:41.730Z] ERROR: AI Command error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:04:43.704Z] INFO: Session saved: 3 blocks
-[2025-10-09T17:05:00.601Z] INFO: Session saved: 4 blocks
-[2025-10-09T17:05:01.303Z] ERROR: AI Provider Error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:05:01.304Z] ERROR: Project Command error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:06:50.481Z] ERROR: AI Provider Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T17:07:09.005Z] ERROR: AI Provider Error: models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
-[2025-10-09T17:07:23.541Z] ERROR: AI Provider Error: Unexpected end of JSON input
-[2025-10-09T17:08:00.839Z] ERROR: AI Provider Error: HTTP 404: 
-[2025-10-09T17:08:25.897Z] ERROR: AI Provider Error: HTTP 404: {
+[2025-10-15T13:08:35.663Z] INFO: Session initialized: session_2025_10_15_19_08
+[2025-10-15T13:08:35.666Z] INFO: 🔍 Initializing project analysis...
+[2025-10-15T13:08:35.666Z] INFO: 🔍 Starting project analysis...
+[2025-10-15T13:08:37.451Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:08:37.451Z] ERROR: Error generating project summary: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:08:37.452Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:08:37.452Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:08:42.246Z] INFO: Session saved: 1 blocks
+[2025-10-15T13:10:43.215Z] INFO: Session initialized: session_2025_10_15_19_10
+[2025-10-15T13:10:43.217Z] INFO: 🔍 Initializing project analysis...
+[2025-10-15T13:10:43.217Z] INFO: 🔍 Starting project analysis...
+[2025-10-15T13:10:44.236Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:10:44.237Z] ERROR: Error generating project summary: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:10:44.237Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:10:44.237Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:10:54.083Z] INFO: Session saved: 1 blocks
+[2025-10-15T13:10:55.003Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:10:55.004Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:16:20.847Z] INFO: Session saved: 2 blocks
+[2025-10-15T13:16:21.663Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:16:21.664Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:17:49.713Z] INFO: Session saved: 3 blocks
+[2025-10-15T13:17:56.525Z] INFO: Session saved: 4 blocks
+[2025-10-15T13:17:58.465Z] INFO: Session saved: 5 blocks
+[2025-10-15T13:18:00.200Z] INFO: Session saved: 6 blocks
+[2025-10-15T13:18:04.050Z] INFO: Session saved: 7 blocks
+[2025-10-15T13:18:09.419Z] INFO: Session saved: 8 blocks
+[2025-10-15T13:18:10.213Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:18:10.214Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:18:14.966Z] INFO: Session saved: 9 blocks
+[2025-10-15T13:18:21.958Z] INFO: Session saved: 10 blocks
+[2025-10-15T13:18:54.222Z] INFO: Session initialized: session_2025_10_15_19_18
+[2025-10-15T13:18:54.225Z] INFO: 🔍 Initializing project analysis...
+[2025-10-15T13:18:54.226Z] INFO: 🔍 Starting project analysis...
+[2025-10-15T13:18:55.453Z] ERROR: AI Provider Error: HTTP 404: {
   "error": {
     "code": 404,
     "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
@@ -123,23 +110,127 @@
   }
 }
 
-[2025-10-09T17:08:45.729Z] ERROR: AI Provider Error: HTTP 404: {
+[2025-10-15T13:18:55.454Z] ERROR: Error generating project summary: HTTP 404: {
   "error": {
     "code": 404,
-    "message": "models/gemini-1.5-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
     "status": "NOT_FOUND"
   }
 }
 
-[2025-10-09T17:09:01.013Z] ERROR: AI Provider Error: HTTP 404: {
+[2025-10-15T13:18:55.454Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:18:55.454Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:19:29.590Z] INFO: Session saved: 1 blocks
+[2025-10-15T13:19:29.988Z] ERROR: AI Provider Error: HTTP 404: {
   "error": {
     "code": 404,
-    "message": "models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
     "status": "NOT_FOUND"
   }
 }
 
-[2025-10-09T17:11:07.280Z] INFO: Session saved: 5 blocks
-[2025-10-09T17:11:08.006Z] ERROR: AI Provider Error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:11:08.008Z] ERROR: AI Command error: API key not valid. Please pass a valid API key.
-[2025-10-09T17:11:11.759Z] INFO: Session saved: 6 blocks
+[2025-10-15T13:19:29.989Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:45:16.810Z] INFO: Session saved: 2 blocks
+[2025-10-15T13:45:17.315Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:45:17.314Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:45:35.255Z] INFO: Session saved: 3 blocks
+[2025-10-15T13:45:36.118Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:45:36.123Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:48:33.368Z] INFO: Session initialized: session_2025_10_15_19_48
+[2025-10-15T13:48:33.373Z] INFO: 🔍 Starting project analysis...
+[2025-10-15T13:48:33.372Z] INFO: 🔍 Initializing project analysis...
+[2025-10-15T13:48:35.788Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:48:35.788Z] ERROR: Error generating project summary: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:48:35.788Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:48:35.788Z] INFO: ✅ Project analysis completed
+[2025-10-15T13:49:30.019Z] INFO: Session saved: 1 blocks
+[2025-10-15T13:49:30.865Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T13:49:30.867Z] ERROR: AI Command error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T14:06:39.082Z] INFO: Session saved: 2 blocks
+[2025-10-15T14:06:40.487Z] INFO: Session saved: 3 blocks
+[2025-10-15T14:06:43.461Z] INFO: Session saved: 4 blocks
+[2025-10-15T14:06:45.150Z] INFO: Session saved: 5 blocks
+[2025-10-15T14:32:39.852Z] INFO: Session initialized: session_2025_10_15_20_32
+[2025-10-15T14:32:39.861Z] INFO: 🔍 Initializing project analysis...
+[2025-10-15T14:32:39.861Z] INFO: 🔍 Starting project analysis...
+[2025-10-15T14:32:41.643Z] ERROR: AI Provider Error: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T14:32:41.644Z] ERROR: Error generating project summary: HTTP 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[2025-10-15T14:32:41.644Z] INFO: ✅ Project analysis completed
+[2025-10-15T14:32:41.644Z] INFO: ✅ Project analysis completed

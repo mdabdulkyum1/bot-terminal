@@ -1,0 +1,127 @@
+{
+  "id": "session_2025_10_15_19_10",
+  "startTime": 1760533854076,
+  "lastSaved": 1760534301891,
+  "blocks": [
+    {
+      "id": "block_1760533854076_3kbcfhvrt",
+      "input": "ai hello",
+      "output": "",
+      "error": "HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+      "status": "error",
+      "startTime": 1760533854076,
+      "endTime": 1760533855003,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 927
+    },
+    {
+      "id": "block_1760534180828_i6m7x28sz",
+      "input": "ai hello",
+      "output": "",
+      "error": "HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+      "status": "error",
+      "startTime": 1760534180828,
+      "endTime": 1760534181663,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 835
+    },
+    {
+      "id": "block_1760534269659_yvuckr2tj",
+      "input": "exit",
+      "output": "",
+      "error": "",
+      "status": "completed",
+      "startTime": 1760534269659,
+      "endTime": 1760534269733,
+      "exitCode": 0,
+      "isAICommand": false,
+      "duration": 74
+    },
+    {
+      "id": "block_1760534276483_sm71lsnpg",
+      "input": "clear",
+      "output": "",
+      "error": "'clear' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760534276483,
+      "endTime": 1760534276551,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 68
+    },
+    {
+      "id": "block_1760534278427_wczkv2s5h",
+      "input": "cls",
+      "output": "\f",
+      "error": "",
+      "status": "completed",
+      "startTime": 1760534278427,
+      "endTime": 1760534278499,
+      "exitCode": 0,
+      "isAICommand": false,
+      "duration": 72
+    },
+    {
+      "id": "block_1760534280179_ns4qqhbae",
+      "input": "clear",
+      "output": "",
+      "error": "'clear' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760534280179,
+      "endTime": 1760534280235,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 56
+    },
+    {
+      "id": "block_1760534284011_1q8omria8",
+      "input": "hello",
+      "output": "",
+      "error": "'hello' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760534284011,
+      "endTime": 1760534284111,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 100
+    },
+    {
+      "id": "block_1760534289403_217rcs0f4",
+      "input": "ai hi",
+      "output": "",
+      "error": "HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-flash-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+      "status": "error",
+      "startTime": 1760534289403,
+      "endTime": 1760534290213,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 810
+    },
+    {
+      "id": "block_1760534294947_kwbmt5iop",
+      "input": "clear",
+      "output": "",
+      "error": "'clear' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760534294948,
+      "endTime": 1760534295003,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 55
+    },
+    {
+      "id": "block_1760534301891_nehsjmdu0",
+      "input": "help",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760534301891,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": false,
+      "duration": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "session_2025_10_15_19_48",
+  "startTime": 1760536170010,
+  "lastSaved": 1760537205129,
+  "blocks": [
+    {
+      "id": "block_1760536170010_jrfckf0dn",
+      "input": "ai hi",
+      "output": "",
+      "error": "HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-pro-latest is not found for API version v1, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n",
+      "status": "error",
+      "startTime": 1760536170010,
+      "endTime": 1760536170866,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 856
+    },
+    {
+      "id": "block_1760537199000_nt1xdizxb",
+      "input": "cls",
+      "output": "\f",
+      "error": "",
+      "status": "completed",
+      "startTime": 1760537199001,
+      "endTime": 1760537199188,
+      "exitCode": 0,
+      "isAICommand": false,
+      "duration": 187
+    },
+    {
+      "id": "block_1760537200449_04fbapse6",
+      "input": "clear",
+      "output": "",
+      "error": "'clear' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760537200449,
+      "endTime": 1760537200553,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 104
+    },
+    {
+      "id": "block_1760537203441_v7l0gqsrf",
+      "input": "clear",
+      "output": "",
+      "error": "'clear' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n",
+      "status": "error",
+      "startTime": 1760537203441,
+      "endTime": 1760537203493,
+      "exitCode": 1,
+      "isAICommand": false,
+      "duration": 52
+    },
+    {
+      "id": "block_1760537205129_zzejr817z",
+      "input": "cls",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760537205129,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": false,
+      "duration": 0
+    }
+  ]
+}

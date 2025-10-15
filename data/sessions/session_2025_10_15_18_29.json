@@ -1,0 +1,31 @@
+{
+  "id": "session_2025_10_15_18_29",
+  "startTime": 1760531360407,
+  "lastSaved": 1760531737462,
+  "blocks": [
+    {
+      "id": "block_1760531360407_two2nxlvi",
+      "input": "ai hello",
+      "output": "📝 Demo Mode: I understand you're asking about: User: hi\nAI: It seems you've provided a JavaScript... In demo mode, I can't provide real AI responses.\n\n🔧 To enable full AI features:\n1. Get your API key from Google AI Studio (for Gemini)\n2. Add it to your .env file: GEMINI_API_KEY=your_key_here\n3. Restart the terminal",
+      "error": "",
+      "status": "completed",
+      "startTime": 1760531360407,
+      "endTime": 1760531360417,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 10
+    },
+    {
+      "id": "block_1760531737461_1kg6w2bq3",
+      "input": "ai hello",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760531737462,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 0
+    }
+  ]
+}

@@ -126,6 +126,8 @@ class BotTerminal {
       
       // Process with AI
       const response = await this.aiProvider.generateResponse(prompt);
+
+      logger.info('✅ response >>> :-', response);
       
       // Update block with response
       block.setOutput(response);

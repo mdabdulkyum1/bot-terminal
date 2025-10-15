@@ -1,0 +1,19 @@
+{
+  "id": "session_2025_10_15_18_48",
+  "startTime": 1760532494853,
+  "lastSaved": 1760532494854,
+  "blocks": [
+    {
+      "id": "block_1760532494853_8wljyr79h",
+      "input": "ai hi",
+      "output": "",
+      "error": "",
+      "status": "pending",
+      "startTime": 1760532494853,
+      "endTime": null,
+      "exitCode": null,
+      "isAICommand": true,
+      "duration": 1
+    }
+  ]
+}
